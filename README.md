@@ -19,8 +19,18 @@ Trata-se de uma aplicação web desenvolvida para facilitar a organização de s
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# Página do projeto 🖥️
+# Páginas do projeto 🖥️
 ![Image](https://github.com/user-attachments/assets/7bece620-b31b-45fc-91f6-03bec7cd9196)
+
+![Image](https://github.com/user-attachments/assets/87e9d712-25ab-4865-8b42-1b7bb035a91b)
+
+![Image](https://github.com/user-attachments/assets/ecc1aa10-ca68-44e0-a285-3f32a8829039)
+
+**Alertas do projeto**⚠
+
+![Image](https://github.com/user-attachments/assets/68e61933-7491-4170-9cb1-05e5a951865a)
+
+![Image](https://github.com/user-attachments/assets/8e16bbdb-a9dd-487a-980f-3d70f042a9f0)
 
 # Como Rodar ou Acessar o Projeto⚙️🌐
 
