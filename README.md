@@ -34,11 +34,11 @@ Trata-se de uma aplicação web desenvolvida para facilitar a organização de s
 
 # Como Rodar ou Acessar o Projeto⚙️🌐
 
-1. Clone o repositório: git clone https://github.com/....
+1. Clone o repositório: git clone https://github.com/vanessadealmeida/sorteio-amigo-secreto
    
    Abra o arquivo index.html no seu navegador.
 
-2. Visite o site: ....
+2. Visite o site: https://sorteio-amigo-secreto-neon.vercel.app/
 
 
 # Expressões de gratidão🙏
