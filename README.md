@@ -15,18 +15,18 @@ Trata-se de uma aplicação web desenvolvida para facilitar a organização de s
 - Exibir os resultados do sorteio.
 - Acessibilidade para deficientes visuais. 
 
-# Tecnologias Utilizadas #
+# Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-# Páginas do projeto 🖥️
+# Paginas do Projeto🖥️
 ![Image](https://github.com/user-attachments/assets/7bece620-b31b-45fc-91f6-03bec7cd9196)
 
 ![Image](https://github.com/user-attachments/assets/87e9d712-25ab-4865-8b42-1b7bb035a91b)
 
 ![Image](https://github.com/user-attachments/assets/ecc1aa10-ca68-44e0-a285-3f32a8829039)
 
-**Alertas do projeto**⚠
+**Alertas do projeto**!⚠
 
 ![Image](https://github.com/user-attachments/assets/68e61933-7491-4170-9cb1-05e5a951865a)
 
@@ -39,6 +39,7 @@ Trata-se de uma aplicação web desenvolvida para facilitar a organização de s
    Abra o arquivo index.html no seu navegador.
 
 2. Visite o site: ....
+
 
 # Expressões de gratidão🙏
 
